@@ -103,7 +103,7 @@ Payload used:
 
 ## 📸 Screenshot
 
-![Reflected XSS Result](images/reflected-xss-alert.png)
+![Reflected XSS Result](images/lab-01-reflected-xss-alert.png)
 
 ---
 
