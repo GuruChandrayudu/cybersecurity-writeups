@@ -190,6 +190,7 @@ The request was similar to:
 ```text
 /image?filename=/etc/passwd
 ```
+kkkkkkkkkkkkkkkkk
 
 After clicking **Send**, the server returned the contents of the `/etc/passwd` file.
 
