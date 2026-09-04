@@ -64,7 +64,7 @@ After clicking "Access the Lab", the vulnerable web application opens. The appli
 
 After opening a product, I explored the available functionality and found a **Check stock** feature. This functionality is interesting because the lab description says that the application fetches stock information from an internal system. A feature that fetches data from another URL can potentially become an SSRF attack surface if the destination URL can be controlled.
 
-![Screenshot 3](images/Screenshot-3-Identifying-the-Stock-Check-Request.png)
+![Screenshot 3](images/Screenshot-3-Identifying-the-Stock-Check-Functionality.png)
 
 ---
 
